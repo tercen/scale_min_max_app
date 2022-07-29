@@ -2,7 +2,7 @@
 
 ##### Description
 
-`scale_min_max_app` is an application that performs rescaling of the data such that all feature values are in the range [0, 1].
+`scale_min_max_app` is an application that performs rescaling of the data such that all observations are in the range [0, 1].
 
 ##### Details
 
